@@ -1,0 +1,3 @@
+Bu?c 1 : T?o 1 activity d? startService
+Bu?c 2 : Custom view mà b?n mu?n hi?n th?
+Bu?c 3 : T?o 1 class MyService extends Service implements View.OnTouchListener. Ð? th?c hi?n vi?c hi?n th?, di chuy?n cung nhu s? ki?n liên quan d?n View c?a b?n.
